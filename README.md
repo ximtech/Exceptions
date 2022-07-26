@@ -1,7 +1,5 @@
 # Exceptions
 
-[![tests](https://github.com/ximtech/Exceptions/actions/workflows/cmake-ci.yml/badge.svg?branch=main)](https://github.com/ximtech/Exceptions/actions/workflows/cmake-ci.yml)
-
 ***Forked from*** [exceptions4c](https://github.com/guillermocalvo/exceptions4c)
 
 Lightweight version of library for error handling in C. Suitable for embedded device exceptions handling like in Java
